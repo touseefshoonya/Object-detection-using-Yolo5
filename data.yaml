@@ -3,4 +3,11 @@ val: ../valid/images
 test: ../test/images
 
 nc: 15
-names: ["A","B","C","D","Graph","No gesture","R","Sign=language","T","U","V","W","X","Y","Z"]
+names: ['A', 'B', 'C', 'D', 'Graph', 'No gesture', 'R', 'Sign-language', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+
+roboflow:
+  workspace: touseef-lk9pg
+  project: object-detection-using-yolo-v5-abv2z
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/touseef-lk9pg/object-detection-using-yolo-v5-abv2z/dataset/2
