@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 15
+names: ["A","B","C","D","Graph","No gesture","R","Sign=language","T","U","V","W","X","Y","Z"]
